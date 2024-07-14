@@ -1,0 +1,29 @@
+[
+    {
+      "path": "/img/populares/el-señor-asterisco.jpg",
+      "alt": "El señor del Asterisco",
+      "id": 1
+    },
+    {
+      "path": "/img/populares/agarrala.jpg",
+      "alt": "Agarrala que está en chancleta",
+      "id": 2
+    },
+    {
+      "path": "/img/populares/tierra-ciego3.jpg",
+      "alt": "En tierra de ciegos, el tuerto es Rey",
+      "id": 3
+    },
+    {
+      "path": "/img/populares/el-bananero.jpg",
+      "alt": "El Bananero (SAPE)",
+      "id": 4
+    },
+    {
+      "path": "/img/populares/mentira1.jpg",
+      "alt": "Las mejores mentiras que te dice tu pareja",
+      "id": 5
+
+    }
+  ]
+  

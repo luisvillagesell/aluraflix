@@ -1,0 +1,23 @@
+
+[ 
+    {
+        "id": 0,
+        "titulo": "Todo"
+    },
+    {
+        "id": 1,
+        "titulo": "Drama"
+    },
+    {
+        "id": 2,
+        "titulo": "Acción"
+    },
+    {
+        "id": 3,
+        "titulo": "Infantil"
+    },
+    {
+        "id": 4,
+        "titulo": "Adulto"
+    }
+]
